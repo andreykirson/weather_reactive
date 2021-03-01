@@ -1,0 +1,8 @@
+ru/job4jweather_reactive/model/Weather.java
+ ru.job4jweather_reactive.model.Weather
+ru/job4jweather_reactive/Main.java
+ ru.job4jweather_reactive.Main
+ru/job4jweather_reactive/service/WeatherService.java
+ ru.job4jweather_reactive.service.WeatherService
+ru/job4jweather_reactive/control/WeatherControl.java
+ ru.job4jweather_reactive.control.WeatherControl
